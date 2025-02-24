@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align='center'>DevStage</h1>
 
-## Getting Started
+<p align='center'>
+  <img src='https://github.com/user-attachments/assets/d12d69f5-5978-43b3-9d73-52a5ecce73df' alt='background-image' />
+</p>
 
-First, run the development server:
+<p  align='center'>
+  <img src='https://img.shields.io/badge/license-MIT-%23835afd' alt='License' />
+  <img src='https://img.shields.io/badge/forks-MIT-%23835afd' alt='Forks' />
+  <img src='https://img.shields.io/badge/stars-MIT-%23835afd' alt='Stars' />
+</p>
+
+<br>
+
+## 💻 Projeto
+
+[DevStage]() Este projeto consiste em um ranking dinâmico onde as pessoas cadastradas em um determinado link são classificadas de acordo com sua posição. O sistema exibe os três primeiros colocados em destaque (🥇 1º, 🥈 2º, 🥉 3º) e organiza os demais participantes em uma lista ordenada.
+
+## 🧪 Technologies
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [React-hook-form](https://www.react-hook-form.com/)
+- [Zod](https://zod.dev/)
+- [Lucide-react](https://lucide.dev/guide/packages/lucide-react)
+- [BiomeJS](https://biomejs.dev/pt-br/)
+- [Tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
+- [Orval](https://orval.dev/)
+
+## 🚀 Instalação
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  # Clone o repositório e entre na pasta do projeto
+  $ git clone https://github.com/RayanneRamos/nlw-connect-reactjs.git
+  $ cd nlw-connect-reactjs
+  # Instale as dependências
+  $ npm install
+  # ou
+  $ yarn install
+  # Execute a aplicação
+  $ npm run dev
+  # ou
+  $ yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para ver a aplicação rodando abra no seu navegador!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔖 Layout
 
-## Learn More
+- [Web](<https://www.figma.com/design/MBeMs6FYAhlDOlEuNEHiaZ/NLW-Connect-%E2%80%A2-DevStage-(Community)?node-id=0-1&t=W6X0WRubHmRd8pH4-1>)
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align='center'>Criado by Rayanne Ramos</p>
