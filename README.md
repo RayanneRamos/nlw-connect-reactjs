@@ -16,6 +16,12 @@
 
 [DevStage]() Este projeto consiste em um ranking dinâmico onde as pessoas cadastradas em um determinado link são classificadas de acordo com sua posição. O sistema exibe os três primeiros colocados em destaque (🥇 1º, 🥈 2º, 🥉 3º) e organiza os demais participantes em uma lista ordenada.
 
+## 🌟 Funcionalidades
+
+1. **Ranking**: Exibição dos três primeiros colocados em destaque: 1º, 2º e 3º lugar.
+3. **Organização**: Organização automática dos demais participantes em uma lista ordenada. 
+4. **Atualização dinâmica do Ranking**: Atualização dinâmica do ranking conforme novos participantes são adicionados ou suas posições são alteradas. 
+
 ## 🧪 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
