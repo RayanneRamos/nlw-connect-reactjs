@@ -22,7 +22,7 @@
 3. **Organização**: Organização automática dos demais participantes em uma lista ordenada. 
 4. **Atualização dinâmica do Ranking**: Atualização dinâmica do ranking conforme novos participantes são adicionados ou suas posições são alteradas. 
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
